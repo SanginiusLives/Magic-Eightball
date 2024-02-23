@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.1937daad.css",
-    "main.js": "/static/js/main.18e5f7db.js",
-    "static/js/453.15559d24.chunk.js": "/static/js/453.15559d24.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.1937daad.css.map": "/static/css/main.1937daad.css.map",
-    "main.18e5f7db.js.map": "/static/js/main.18e5f7db.js.map",
-    "453.15559d24.chunk.js.map": "/static/js/453.15559d24.chunk.js.map"
+    "main.css": "/Magic-Eightball/static/css/main.1937daad.css",
+    "main.js": "/Magic-Eightball/static/js/main.eaedd17f.js",
+    "static/js/453.15559d24.chunk.js": "/Magic-Eightball/static/js/453.15559d24.chunk.js",
+    "static/media/logo.svg": "/Magic-Eightball/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Magic-Eightball/index.html",
+    "main.1937daad.css.map": "/Magic-Eightball/static/css/main.1937daad.css.map",
+    "main.eaedd17f.js.map": "/Magic-Eightball/static/js/main.eaedd17f.js.map",
+    "453.15559d24.chunk.js.map": "/Magic-Eightball/static/js/453.15559d24.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1937daad.css",
-    "static/js/main.18e5f7db.js"
+    "static/js/main.eaedd17f.js"
   ]
 }
